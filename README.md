@@ -1,0 +1,2 @@
+# smart_restaurants
+A web application to help restaurants to improve order management and enhance the customer’s dining experience. The application has different interfaces to serve the customers, management and kitchen. Provides a digital menu for the customer to place orders, payment, manage food delivery to specific table by saving time and manpower, kitchen staff to keep track of orders and provide estimates. 
